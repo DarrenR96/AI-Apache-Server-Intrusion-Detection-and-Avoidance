@@ -4,9 +4,9 @@ Decision tree based AI model that detects malicious actions on the network and a
 
 The program utilizes python3.6 to run the model. Dependencies needed and their installation processes:
 
-- (Pandas)[https://pandas.pydata.org/]
-- (TensorFlow)[https://www.tensorflow.org/install/pip]
-- (numpy)[https://www.numpy.org/]
-- (Requests)[https://pypi.org/project/requests/]
+- [Pandas](https://pandas.pydata.org/)
+- [TensorFlow](https://www.tensorflow.org/install/pip)
+- [numpy](https://www.numpy.org/)
+- [Requests](https://pypi.org/project/requests/)
 
 ---
