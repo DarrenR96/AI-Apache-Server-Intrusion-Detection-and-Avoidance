@@ -2,4 +2,7 @@
 python3.6 main.py
 
 # Remove Access Log File
-rm ACCESSLOGPATH
+: > ACCESSLOGPATH
+
+# Restart Server
+service httpd restart
